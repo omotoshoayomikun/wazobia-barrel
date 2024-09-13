@@ -20,7 +20,7 @@ function Duration() {
       <div className="side-padding my-[10px] pb-2">
         <h1 className="head_text text-center">We also Ship</h1>
         <p className="sm:text-[33px] text-[20px]">
-          Cars and Household goods with containers. Call us for price
+          Cars and Household goods with containers. "Call us for price"
         </p>
       </div>
       <div className="side-padding my-[10px] pb-2">

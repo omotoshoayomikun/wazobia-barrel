@@ -4,7 +4,7 @@ function Promotion() {
   return (
     <>
       <div className="side-padding  my-4">
-        <h1 className="head_text text-center uppercase">Special Promotion</h1>
+        <h1 className="head_text text-center">Special Promotion</h1>
         <div className="flex flex-row sm:gap-10 gap-2">
           <div  className={`flex-1 flex lg:flex-row flex-col items-center gap-5 rounded-[2rem]  ${styles.shadow_box} sm:p-4 p-2`}>
             <div className="">
