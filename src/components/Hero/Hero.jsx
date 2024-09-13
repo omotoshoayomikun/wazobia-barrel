@@ -23,13 +23,13 @@ function Hero() {
           <h1 className="flex mb-10 items-center justify-center text-center sm:leading-10 leading-[4px] w-full">
             <div className="flex items-center">
               <span className="text-green-900 lg:text-[6rem] md:text-[5.3rem] text-[3rem] font-bold">
-                WA
+                9
               </span>
               <span className="lg:text-[8.9rem] md:text-[7.3rem] text-[4rem] font-bold">
-                ZO
+                J
               </span>
               <span className="text-green-900 lg:text-[6rem] md:text-[5.3rem] text-[3rem] font-bold">
-                BIA
+                A
               </span>
             </div>
             <div className="md:text-[38px] font-bold">Barrels</div>

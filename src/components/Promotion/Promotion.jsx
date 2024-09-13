@@ -23,7 +23,7 @@ function Promotion() {
               <img src="/images/barrel1.png" alt="" className="w-[100px] h-[150px] sm:w-[150px] sm:h-[250px] sm:object-[initial] object-contain"/>
             </div>
             <div className="">
-              <h2 className="sm:text-[20px] text-[16px]">Two Barrel</h2>
+              <h2 className="sm:text-[20px] text-[16px]">Two Barrels</h2>
               <i className="sm:text-[50px] text-[30px] leading-10 font-bold text-green-900">$389</i>
             </div>
           </div>

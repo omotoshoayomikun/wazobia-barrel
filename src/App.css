@@ -1,6 +1,7 @@
 :root {
   --blue-color: #1a1af3;
   --blue-color2: #030392;
+  --bg--bg: rgb(248 249 249 );
 }
 
 .side-padding {
@@ -10,7 +11,7 @@
 .head_text {
   font-size: 50px;
   font-weight: bold;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .flex {

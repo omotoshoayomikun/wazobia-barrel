@@ -6,15 +6,21 @@ function Duration() {
       <div className="side-padding my-[10px] pb-2">
         <h1 className="head_text text-center">How to Ship Barrels</h1>
         <p className="sm:text-[33px] text-[20px]">
-          The ship takes about 45days or more immediately it departs the port.
+          The ship takes about 45 days or more immediately it departs the port.
           We have no control over the duration.
         </p>
       </div>
       <div className="side-padding my-[10px] pb-2">
         <h1 className="head_text text-center">Breakage or Damages</h1>
         <p className="sm:text-[33px] text-[20px]">
-          We are not responsible with the breakage or danage of items inside
+          We are not responsible with the breakage or damage of items inside
           barrels
+        </p>
+      </div>
+      <div className="side-padding my-[10px] pb-2">
+        <h1 className="head_text text-center">We also Ship</h1>
+        <p className="sm:text-[33px] text-[20px]">
+          Cars and Household goods with containers. Call us for price
         </p>
       </div>
       <div className="side-padding my-[10px] pb-2">
@@ -25,8 +31,8 @@ function Duration() {
       </div>
       <div className="side-padding my-[10px] pb-2">
         <h1 className="head_text text-center">Door to Door</h1>
-        <p className="sm:text-[33px] text-[20px]">
-          Our agent in Nigeria do door to door delivery. Let us know if you need
+        <p className="sm:text-[33px] text-[20px] text-center">
+          Our agent in Nigeria do door to door delivery. <br /> Let us know if you need
           this service.
         </p>
       </div>
