@@ -3,7 +3,7 @@ import styles from "./Items.module.css"
 function Items() {
   return (
     <>
-    <div className="side-padding my-[40px] py-6 bg-[--bg--bg]">
+    <div className={`side-padding my-[40px] md:py-16 py-6 bg-[--bg--bg] fade_top_image bg-repeat-x bg-top`}>
         <h1 className="head_text text-center">Items that can be Shipped</h1>
         <div className={`${styles.grid_items}`}>
             <div className={`flex gap-2 items-center ${styles.grid_container}`}>

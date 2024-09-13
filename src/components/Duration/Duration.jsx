@@ -3,19 +3,21 @@ import React from "react";
 function Duration() {
   return (
     <>
-      <div className="side-padding my-[10px] pb-2">
-        <h1 className="head_text text-center">How to Ship Barrels</h1>
-        <p className="sm:text-[33px] text-[20px]">
-          The ship takes about 45 days or more immediately it departs the port.
-          We have no control over the duration.
-        </p>
-      </div>
-      <div className="side-padding my-[10px] pb-2">
-        <h1 className="head_text text-center">Breakage or Damages</h1>
-        <p className="sm:text-[33px] text-[20px]">
-          We are not responsible with the breakage or damage of items inside
-          barrels
-        </p>
+      <div className="py-6 bg-[--bg--bg] mt-6">
+        <div className="side-padding my-[10px] pb-2">
+          <h1 className="head_text text-center">How to Ship Barrels</h1>
+          <p className="sm:text-[33px] text-[20px]">
+            The ship takes about 45 days or more immediately it departs the
+            port. We have no control over the duration.
+          </p>
+        </div>
+        <div className="side-padding my-[10px] pb-2">
+          <h1 className="head_text text-center">Breakage or Damages</h1>
+          <p className="sm:text-[33px] text-[20px]">
+            We are not responsible with the breakage or damage of items inside
+            barrels
+          </p>
+        </div>
       </div>
       <div className="side-padding my-[10px] pb-2">
         <h1 className="head_text text-center">We also Ship</h1>
@@ -29,11 +31,11 @@ function Duration() {
           408 w . 132<sup>nd</sup> ST LOS ANGELES CA 90061
         </p>
       </div>
-      <div className="side-padding my-[10px] pb-2">
+      <div className="side-padding py-6 bg-[--bg--bg2] mt-6 text-[--text-color] fade_top_image bg-repeat-x bg-top">
         <h1 className="head_text text-center">Door to Door</h1>
         <p className="sm:text-[33px] text-[20px] text-center">
-          Our agent in Nigeria do door to door delivery. <br /> Let us know if you need
-          this service.
+          Our agent in Nigeria do door to door delivery. <br /> Let us know if
+          you need this service.
         </p>
       </div>
     </>

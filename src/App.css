@@ -2,6 +2,8 @@
   --blue-color: #1a1af3;
   --blue-color2: #030392;
   --bg--bg: rgb(248 249 249 );
+  --bg--bg2: rgb(84 97 108 /1);
+  --text-color: rgb(255 255 255);
 }
 
 .side-padding {
@@ -40,6 +42,10 @@
 
 .mb-20 {
   margin-bottom: 20px;
+}
+
+.fade_top_image {
+  background: url("../public/images/download.svg");
 }
 
 @media screen and (max-width: 1250px) {

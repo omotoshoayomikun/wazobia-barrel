@@ -16,24 +16,13 @@ function Hero() {
     <section className={`side-padding ${styles.hero_section}`}>
       {/* <div className={`${styles.fade_background}`}></div> */}
       <div className={`${styles.hero_container} gap-2`}>
-        <div className="flex-1">
+        <div className={`flex-1 ${styles.side_1}`}>
           <img src="/images/barrel1.png" className={`${styles.hero_image}`} />
         </div>
         <div className={` flex-[2]`}>
-          <h1 className="flex mb-10 items-center justify-center text-center sm:leading-10 leading-[4px] w-full">
-            <div className="flex items-center">
-              <span className="text-green-900 lg:text-[6rem] md:text-[5.3rem] text-[3rem] font-bold">
-                9
-              </span>
-              <span className="lg:text-[8.9rem] md:text-[7.3rem] text-[4rem] font-bold">
-                J
-              </span>
-              <span className="text-green-900 lg:text-[6rem] md:text-[5.3rem] text-[3rem] font-bold">
-                A
-              </span>
-            </div>
-            <div className="md:text-[38px] font-bold">Barrels</div>
-          </h1>
+          <div className="flex items-center justify-center w-full">
+              <img src="/images/barrels_size.png" alt="barrel image logo" className={styles.img_logo} />
+          </div>
 
           <h1 className="text-center lg:text-[25px]">
             All you can shop inside barrel to Lagos{" "}

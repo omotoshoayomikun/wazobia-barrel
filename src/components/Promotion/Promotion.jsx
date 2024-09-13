@@ -8,7 +8,7 @@ function Promotion() {
         <div className="flex flex-row sm:gap-10 gap-2">
           <div  className={`flex-1 flex lg:flex-row flex-col items-center gap-5 rounded-[2rem]  ${styles.shadow_box} sm:p-4 p-2`}>
             <div className="">
-              <img src="/images/barrel1.png" alt="" className="w-[100px] h-[150px] sm:w-[150px] sm:h-[250px]"/>
+              <img src="/images/barrel1.png" alt="" className="w-[90px] h-[130px] sm:w-[150px] sm:h-[250px]"/>
             </div>
             <div className="">
               <h2 className="sm:text-[20px] text-[16px]">One Barrel</h2>
@@ -19,8 +19,8 @@ function Promotion() {
             className={`flex-[1.5] items-center gap-5 flex lg:flex-row flex-col rounded-[2rem]  ${styles.shadow_box} sm:p-4 p-2`}
           >
             <div className="flex">
-              <img src="/images/barrel1.png" alt="" className="w-[100px] h-[150px] sm:w-[150px] sm:h-[250px] sm:object-[initial] object-contain sm:mr-3 mr-2"/>
-              <img src="/images/barrel1.png" alt="" className="w-[100px] h-[150px] sm:w-[150px] sm:h-[250px] sm:object-[initial] object-contain"/>
+              <img src="/images/barrel1.png" alt="" className="w-[90px] h-[130px] sm:w-[150px] sm:h-[250px] sm:object-[initial] sm:mr-3 mr-2"/>
+              <img src="/images/barrel1.png" alt="" className="w-[90px] h-[130px] sm:w-[150px] sm:h-[250px] sm:object-[initial]"/>
             </div>
             <div className="">
               <h2 className="sm:text-[20px] text-[16px]">Two Barrels</h2>
